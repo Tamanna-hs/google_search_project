@@ -1,0 +1,104 @@
+.img{
+  /* transform: translate(100%, 50%); */
+  position:fixed;
+object-position: center}
+
+.link{
+  position: fixed;
+
+right: 0;
+
+top: 0;
+
+width: 260px;
+
+border: 3px solid #73AD21;
+
+
+}
+
+div{
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+    position:absolute;
+    border-width: 25px;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    height: 40px;
+    border-width: 110px;
+    border-radius: 100px;
+    padding: 7px;
+    border: solid;
+    background: white;
+    border-color: DarkGrey;
+    
+}
+.search-text{
+  text-align: start;
+  position:initial;
+  border: none;          
+  background:none;
+  outline: none;
+  float:right;
+  padding: 5px;
+  font-size: 16px;
+  transition: 80px;
+  transform: translate(0%, -55%);
+  line-height: 30px;
+  width: 500px; 
+}
+
+.btn_img{
+  border: none;         
+  position: absolute;
+  top: 30%;
+  bottom: 60%;
+  left: 95%;
+  right: 0%;
+  width: 0%;
+  height:40%;
+  z-index: 10;
+  cursor: pointer;
+  color: blue;
+  background: none;
+}
+
+div1{
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:normal;
+  border-width: 20px; 
+ 
+}
+
+.btn_adv{
+ padding: auto;
+ background-color: blue;
+ color:white;
+ border: none;
+ text-align:left;
+    position:absolute;
+    font-size: 15px;
+    transform: translate(0%, -30%);
+    height: 30px;  
+    background: blue;
+}
+
+.allWords{
+  padding-left : 50px;
+  text-align: left;
+}
+.exactWords{
+  box-sizing: 20px;
+  padding-left : 50px;
+}
+.anyWord{
+  box-sizing: 20px;
+  padding-left : 50px;
+}
+.noneWord{
+  box-sizing: 20px;
+  padding-left : 50px;
+}
+
