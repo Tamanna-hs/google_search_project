@@ -187,9 +187,7 @@ public class EcommercePage {
         }
 
         System.out.println("Total price of the products are: " + sum);
-
         Thread.sleep(2000);
-
 
         if (sum == 6020) {
             System.out.println("All the products are added successfully");
