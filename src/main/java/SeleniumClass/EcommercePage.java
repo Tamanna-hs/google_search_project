@@ -74,7 +74,7 @@ public class EcommercePage {
         Thread.sleep(2000);
         driver.navigate().back();
 
-//
+//test
 ////        For NOKIA
 //        Thread.sleep(2000);
 //        driver.findElement(By.xpath("//a[text() = 'Nokia lumia 1520']")).click();
