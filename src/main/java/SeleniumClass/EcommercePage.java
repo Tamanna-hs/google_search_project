@@ -172,7 +172,6 @@ public class EcommercePage {
         driver.findElement(By.id("cartur")).click();
         Thread.sleep(1000);
 
-       // WebElement category = driver.findElement(By.xpath("//a[@id = 'itemc']"));
 
         List<WebElement> categories =  driver.findElements(By.xpath("//tbody/tr/td[3]"));
         int sum = 0;
